@@ -1,0 +1,15 @@
+{
+  "index": "About",
+  "documentation": "Documentation",
+  "app": {
+    "title": "App",
+    "type": "page",
+    "href": "https://evotars.inferst.com"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/inferst",
+    "newWindow": true
+  }
+}
